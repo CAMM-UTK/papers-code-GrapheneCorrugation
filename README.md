@@ -1,27 +1,33 @@
 [![Paper](https://img.shields.io/badge/paper-arXiv%3AXXXX.YYYYY-B31B1B.svg)](https://arxiv.org/abs/XXXX.YYYYY)
-[![DOI](https://zenodo.org/badge/214220909.svg)](https://zenodo.org/badge/latestdoi/214220909)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10137837.svg)](https://doi.org/10.5281/zenodo.10137837)
 
 # Paper Title
 
-Author 1, Author 2, Author 3
+Gage Erwin, Adrian Del Maestro
 
 [arXiv:XXXX.YYYYY](https://arxiv.org/abs/XXXX.YYYYY)
 
 ### Abstract
-Abstract Here
+Adsorption of ${}^4$He on graphene substrates has been a topic of great interest due to the intriguing effects of graphene corrugation on the manifestation of commensurate solid and exotic phases in low-dimensional systems. In this study, we employ worm algorithm quantum Monte Carlo to study helium adsorbed on a graphene substrate to explore corrugation effects in the grand canonical ensemble. We utilized a Szalewicz potential for helium-helium interactions and a summation of isotropic interactions between helium and carbon atoms to construct a helium-graphene potential. We implement different levels of approximation to achieve a smooth potential, three partially corrugated potentials, and a fully ab initio potential to test the effects of corrugation on the first and second layers. We demonstrate that the omission of corrugation within the helium-graphene potential could lead to finite-size effects in both the first and second layers. Thus, a fully corrugated potential should be used when simulating helium in this low-dimensional regime.
 
 ### Description
 This repository includes links, code, scripts, and data to generate the figures in a paper.
-
 ### Requirements
-The data in this project was generated via exact diagonalization.  Everything included in the [data](https://github.com/DelMaestroGroup/papers-code-template/tree/main/data) directory was generated via:
+The data in this project was generated via quantum Monte Carlo simulations with the worm algorithm
+Processed and the raw simulation data set is available online at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10137837.svg)](https://doi.org/10.5281/zenodo.10137837).
 
-* [Dependency Name](https://dependencelink)
+1. A minimal environment to execute these notebooks can be installed via
+
+<code>
+pip install -r requirements.txt
+</code>
+
+2. All quantum Monte Carlo data was generated with our [open source path integral software](https://code.delmaestro.org).
 
 ### Support
-The creation of these materials was supported in part by the National Science Foundation under Award No. DMR-1553991.
+This research was partially supported by the National Science Foundation Materials Research Science and Engineering Center program through the UT Knoxville Center for Advanced Materials and Manufacturing (DMR-2309083).
 
-[<img width="100px" src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png">](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1553991)
+[<img width="100px" src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png">](http://www.nsf.gov/awardsearch/showAward?AWD_ID=2309083)
 
 ### Figures
 

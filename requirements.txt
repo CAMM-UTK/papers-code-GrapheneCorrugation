@@ -1,0 +1,13 @@
+# required packages
+scipy
+erroranalysis
+matplotlib
+numpy
+jupyterlab
+zenodo_get
+graphenetools
+argparse
+
+## Installed from git
+git+git://github.com/DelMaestroGroup/dgutils.git#egg=dgutils
+git+git://github.com/DelMaestroGroup/pimcscripts.git#egg=pimcscripts
