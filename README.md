@@ -30,7 +30,7 @@ This research was partially supported by the National Science Foundation Materia
 ### Figures
 
 #### Figure 01: Figure Name
-<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/figures/Fig1.svg" width="400px">
+<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/blob/main/figures/Fig1.svg" width="400px">
 
 <img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/figures/Fig2.svg" width="400px">
 
