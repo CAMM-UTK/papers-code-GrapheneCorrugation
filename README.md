@@ -27,12 +27,20 @@ pip install -r requirements.txt
 ### Support
 This research was partially supported by the National Science Foundation Materials Research Science and Engineering Center program through the UT Knoxville Center for Advanced Materials and Manufacturing (DMR-2309083).
 
-[<img width="100px" src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png">](http://www.nsf.gov/awardsearch/showAward?AWD_ID=2309083)
-
 ### Figures
 
 #### Figure 01: Figure Name
-<img src="https://github.com/DelMaestroGroup/papers-code-template/blob/main/figures/figure01.svg" width="400px">
+<img src="https://github.com/DelMaestroGroup/papers-code-template/blob/main/figures/Fig1.svg" width="400px">
 
-This figure is relesed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
+<img src="https://github.com/DelMaestroGroup/papers-code-template/blob/main/figures/Fig2.svg" width="400px">
+
+<img src="https://github.com/DelMaestroGroup/papers-code-template/blob/main/figures/Fig3.svg" width="400px">
+
+<img src="https://github.com/DelMaestroGroup/papers-code-template/blob/main/figures/Fig4.svg" width="400px">
+
+<img src="https://github.com/DelMaestroGroup/papers-code-template/blob/main/figures/Fig5.svg" width="400px">
+
+<img src="https://github.com/DelMaestroGroup/papers-code-template/blob/main/figures/Fig6.svg" width="400px">
+
+<img src="https://github.com/DelMaestroGroup/papers-code-template/blob/main/figures/Fig7.svg" width="400px">
 
