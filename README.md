@@ -30,15 +30,15 @@ This research was partially supported by the National Science Foundation Materia
 ### Figures
 
 #### Figure 01: Figure Name
-<img src="https://github.com/DelMaestroGroup/papers-code-template/blob/main/figures/Fig1.svg" width="400px">
+<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/figures/Fig1.svg" width="400px">
 
-<img src="https://github.com/DelMaestroGroup/papers-code-template/blob/main/figures/Fig2.svg" width="400px">
+<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/figures/Fig2.svg" width="400px">
 
-<img src="https://github.com/DelMaestroGroup/papers-code-template/blob/main/figures/Fig3.svg" width="400px">
+<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/figures/Fig3.svg" width="400px">
 
-<img src="https://github.com/DelMaestroGroup/papers-code-template/blob/main/figures/Fig4.svg" width="400px">
+<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/figures/Fig4.svg" width="400px">
 
-<img src="https://github.com/DelMaestroGroup/papers-code-template/blob/main/figures/Fig5.svg" width="400px">
+<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/figures/Fig5.svg" width="400px">
 
 <img src="https://github.com/DelMaestroGroup/papers-code-template/blob/main/figures/Fig6.svg" width="400px">
 
