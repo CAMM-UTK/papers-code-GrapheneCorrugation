@@ -7,6 +7,7 @@ jupyterlab
 zenodo_get
 graphenetools
 argparse
+pickle
 
 ## Installed from git
 git+git://github.com/DelMaestroGroup/dgutils.git#egg=dgutils
