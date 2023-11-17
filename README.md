@@ -1,5 +1,5 @@
 <!--[![Paper](https://img.shields.io/badge/paper-arXiv%3AXXXX.YYYYY-B31B1B.svg)](https://arxiv.org/abs/XXXX.YYYYY)-->
-<!--[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10137837.svg)](https://doi.org/10.5281/zenodo.10137837)-->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10150018.svg)](https://doi.org/10.5281/zenodo.10150018)
 
 # Effects of substrate corrugation during helium adsorption on graphene in the grand canonical ensemble
 
