@@ -47,4 +47,15 @@ This research was partially supported by the National Science Foundation Materia
 #### Figure 07: Energy per particle in the second layer regime.
 <img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/blob/main/figures/Fig6.svg" width="400px">
 
+#### Figure 08: Finite Size scaling of the Energy per Particle at -115 K.
+<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/blob/main/figures/Fig7.svg" width="400px">
+
+#### Figure 09: Filling Fraction and Energy per Particle for the smooth and corrugated potential, for system sizes 48, 72, and 108.
+<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/blob/main/figures/Fig8.svg" width="400px">
+
+#### Figure 10: Finite Size scaling of the Energy per Particle at -87 K.
+<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/blob/main/figures/Fig9.svg" width="400px">
+
+#### Figure 11: Finite Size scaling of the Energy per Particle at -41 K.
+<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/blob/main/figures/Fig10.svg" width="400px">
 
