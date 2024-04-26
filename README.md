@@ -27,24 +27,24 @@ This research was partially supported by the National Science Foundation Materia
 ### Figures
 
 #### Figure 01: Simulation cell in the x-y plane.
-<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/blob/main/figures/Fig1.pdf" width="400px">
+<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/blob/main/figures/Fig1.svg" width="400px">
 
 #### Figure 02: Potential Analysis in the z and xy plane. 
-<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/blob/main/figures/Fig2.pdf" width="400px">
+<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/blob/main/figures/Fig2.svg" width="400px">
 
 #### Figure 03: Filling fraction in the first layer.
-<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/blob/main/figures/Fig3a.pdf" width="400px">
+<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/blob/main/figures/Fig3a.svg" width="400px">
 
 #### Figure 04: Energy per particle in the first layer regime.
-<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/blob/main/figures/Fig3b.pdf" width="400px">
+<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/blob/main/figures/Fig3b.svg" width="400px">
 
 #### Figure 05: Compressibility as a function of chemical potential.
-<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/blob/main/figures/Fig4.pdf" width="400px">
+<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/blob/main/figures/Fig4.svg" width="400px">
 
 #### Figure 06: Filling fraction in the second layer regime and linear density.
-<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/blob/main/figures/Fig5.pdf" width="400px">
+<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/blob/main/figures/Fig5.svg" width="400px">
 
 #### Figure 07: Energy per particle in the second layer regime.
-<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/blob/main/figures/Fig6.pdf" width="400px">
+<img src="https://github.com/DelMaestroGroup/papers-code-GrapheneCorrugation/blob/main/figures/Fig6.svg" width="400px">
 
 
