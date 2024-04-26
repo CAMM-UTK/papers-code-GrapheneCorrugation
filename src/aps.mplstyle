@@ -109,7 +109,7 @@ legend.handlelength  : 0.075
 ### FIGURE
 # See http://matplotlib.org/api/figure_api.html#matplotlib.figure.Figure
 figure.figsize   : 3.4039, 2.10373    # figure size in inches
-
+#6.5in width
 savefig.transparent :  True     # transparent figures
 savefig.dpi         : 300     # figure dots per inch (72.27)
 #savefig.bbox        : tight     # 'tight' or 'standard'.
