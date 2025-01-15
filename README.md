@@ -7,6 +7,7 @@
 Gage Erwin, Adrian Del Maestro
 
 [arXiv:2311.12747](https://arxiv.org/abs/arXiv:2311.12747)
+[J. Low Temp. Phys. 215, 525 (2024)](https://doi.org/10.1007/s10909-024-03156-4)
 
 ### Abstract
 Adsorption of ${}^4$He on graphene substrates has been a topic of great interest due to the intriguing effects of graphene corrugation on the manifestation of commensurate solid and exotic phases in low-dimensional systems. In this study, we employ worm algorithm quantum Monte Carlo to study helium adsorbed on a graphene substrate to explore corrugation effects in the grand canonical ensemble. We utilized a Szalewicz potential for helium-helium interactions and a summation of isotropic interactions between helium and carbon atoms to construct a helium-graphene potential. We implement different levels of approximation to achieve a smooth potential, three partially corrugated potentials, and a fully ab initio potential to test the effects of corrugation on the first and second layers. We demonstrate that the omission of corrugation within the helium-graphene potential could lead to finite-size effects in both the first and second layers. Thus, a fully corrugated potential should be used when simulating helium in this low-dimensional regime.
